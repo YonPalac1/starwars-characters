@@ -1,3 +1,9 @@
+Star Wars Characters || NEXT JS Practice
+
+<img src="https://github.com/YonPalac1/starwars-characters/blob/main/SCREENS/home.png?raw=true"></img>
+
+<br></br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
