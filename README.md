@@ -1,4 +1,6 @@
-Star Wars Characters || NEXT JS Practice
+# Star Wars Characters || NEXT JS Practice
+
+APi de star Wars para testear a los personajes
 
 <img src="https://github.com/YonPalac1/starwars-characters/blob/main/SCREENS/home.png?raw=true"></img>
 
